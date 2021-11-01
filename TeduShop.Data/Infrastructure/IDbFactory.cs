@@ -1,6 +1,4 @@
-﻿
-
-using System;
+﻿using System;
 
 namespace TeduShop.Data.Infrastructure
 {
@@ -8,4 +6,4 @@ namespace TeduShop.Data.Infrastructure
     {
         TeduShopDbContext Init();
     }
-}   
+}

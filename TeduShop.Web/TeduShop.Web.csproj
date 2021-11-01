@@ -113,10 +113,6 @@
       <Private>True</Private>
       <HintPath>..\packages\WebGrease.1.6.0\lib\WebGrease.dll</HintPath>
     </Reference>
-    <Reference Include="Antlr3.Runtime">
-      <Private>True</Private>
-      <HintPath>..\packages\Antlr.3.5.0.2\lib\Antlr3.Runtime.dll</HintPath>
-    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Newtonsoft.Json">
@@ -203,14 +199,6 @@
     <ProjectReference Include="..\TeduShop.Common\TeduShop.Common.csproj">
       <Project>{d1c1b69b-a6e8-4461-9503-3649df135346}</Project>
       <Name>TeduShop.Common</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\TeduShop.Data\TeduShop.Data.csproj">
-      <Project>{0971b893-156d-4ebf-b670-e1587f09ce5c}</Project>
-      <Name>TeduShop.Data</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\TeduShop.Model\TeduShop.Model.csproj">
-      <Project>{44ed810a-4fad-4f55-91f1-06109cd362c5}</Project>
-      <Name>TeduShop.Model</Name>
     </ProjectReference>
     <ProjectReference Include="..\TeduShop.Service\TeduShop.Service.csproj">
       <Project>{d3a5bb04-6358-4d3c-add7-dbc9a36fe255}</Project>
